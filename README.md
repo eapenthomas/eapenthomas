@@ -1,4 +1,4 @@
-# 📌 Eapen TK  
+# 📌 Eapen Thomas
 🚀 Full Stack Developer | Aspiring Software Engineer  
 
 ## 👨‍💻 About Me  
