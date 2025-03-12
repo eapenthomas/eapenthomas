@@ -1,7 +1,7 @@
-# 📌 Eapen Thomas
-🚀 Full Stack Developer | Aspiring Software Engineer  
+#  Eapen Thomas
+Full Stack Developer | Aspiring Software Engineer  
 
-## 👨‍💻 About Me  
+## About Me  
 🎓 MCA Student | Tech Enthusiast | Passionate about Software Development  
 🌟 Specializing in Full Stack Development & AI-powered applications  
 🔥 Enthusiastic about problem-solving, automation, and AI-driven solutions  
