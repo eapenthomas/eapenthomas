@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" alt="Eapen Thomas" width="150" height="150" style="border-radius: 50%;">
+  <img src="set.jpg" alt="Eapen Thomas" width="150" height="150" style="border-radius: 50%;">
 </p>
 #  Eapen Thomas
 Full Stack Developer | Aspiring Software Engineer  
