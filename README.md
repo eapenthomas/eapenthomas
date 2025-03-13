@@ -116,4 +116,3 @@ Full Stack Developer | Aspiring Software Engineer
 
 ---
 
-⚡ **GitHub Stats** (Optional: You can add GitHub stats here using shields.io or GitHub-readme-stats)
