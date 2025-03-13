@@ -100,11 +100,15 @@ Full Stack Developer | Aspiring Software Engineer
 ### 🔹 JobSwipe (AI-powered Chrome Extension for Job Automation)  
 - **Tech Stack:** React.js (Frontend) | Flask (Backend) | DeepSeek API
 Overview:
-JobSwipe is an AI-driven Chrome extension designed to automate the job application process efficiently. It extracts key details from resumes, matches them with relevant job postings on platforms like Indeed, and automates the application submission process. This significantly reduces manual effort for job seekers by streamlining the workflow. 
+JobSwipe is an AI-driven Chrome extension designed to automate the job application process efficiently. It extracts key details from resumes, matches them with relevant job postings on platforms like Indeed, and automates the application submission process. This significantly reduces manual effort for job seekers by streamlining the workflow.
+
 Key Features:
 ✅ Resume Upload & Parsing: Extracts skills, experience, and qualifications using DeepSeek API.
+
 ✅ Job Matching Algorithm: Suggests job listings based on resume content and user preferences.
+
 ✅ Automated Job Application: Autofills application forms and submits them to job platforms like Indeed.
+
 ✅ User Customization: Allows filtering by location, salary, job type, and more.
 
 ### 🔹 UPLeave (Web-based Leave Management System)  
