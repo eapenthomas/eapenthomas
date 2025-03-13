@@ -98,12 +98,23 @@ Full Stack Developer | Aspiring Software Engineer
 ## 🚀 Projects  
 
 ### 🔹 JobSwipe (AI-powered Chrome Extension for Job Automation)  
-- **Tech Stack:** React.js (Frontend), Flask (Backend), DeepSeek API, Indeed API  
-- **Features:** Resume parsing, job matching, automated job applications  
+- **Tech Stack:** React.js (Frontend) | Flask (Backend) | DeepSeek API
+Overview:
+JobSwipe is an AI-driven Chrome extension designed to automate the job application process efficiently. It extracts key details from resumes, matches them with relevant job postings on platforms like Indeed, and automates the application submission process. This significantly reduces manual effort for job seekers by streamlining the workflow. 
+Key Features:
+✅ Resume Upload & Parsing: Extracts skills, experience, and qualifications using DeepSeek API.
+✅ Job Matching Algorithm: Suggests job listings based on resume content and user preferences.
+✅ Automated Job Application: Autofills application forms and submits them to job platforms like Indeed.
+✅ User Customization: Allows filtering by location, salary, job type, and more.
 
 ### 🔹 UPLeave (Web-based Leave Management System)  
 - **Tech Stack:** PHP, MySQL, Bootstrap, AJAX, jQuery  
-- **Features:** Role-based access control (RBAC), session-based authentication, OTP-based login  
+Overview:
+UPLeave is a web-based leave management system designed for educational institutions. It streamlines the leave request and approval process by providing role-based access control (RBAC) and automating administrative tasks. The system enhances efficiency by reducing paperwork and ensuring transparency in leave tracking.
+✅ User Roles & Access Control: Different permissions for employees, HODs, academic deans, and principals.
+✅ Secure Authentication: Session-based login with an additional OTP-based verification for added security.
+✅ Leave Request & Approval System: Employees can apply for leave, and higher authorities can approve/reject requests.
+✅ Leave History & Reports: Users can track their leave status, while admins can generate leave reports.
 
 ## 📚 What I'm Currently Learning  
 - Advanced React.js & State Management (Redux, Context API)  
