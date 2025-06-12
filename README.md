@@ -98,35 +98,37 @@ Full Stack Developer | Aspiring Software Engineer
 
 ## 🚀 Projects  
 
-### 🔹 JobSwipe (AI-powered Chrome Extension for Job Automation)  
-- **Tech Stack:** React.js (Frontend) | Flask (Backend) | DeepSeek API
+### 🔹 CVPrime – AI-Powered Resume Tailoring Web App
 
-Overview:
-JobSwipe is an AI-driven Chrome extension designed to automate the job application process efficiently. It extracts key details from resumes, matches them with relevant job postings on platforms like Indeed, and automates the application submission process. This significantly reduces manual effort for job seekers by streamlining the workflow.
+A full-stack AI application that customizes resumes to match specific job descriptions, optimizing for **ATS (Applicant Tracking System)** compliance and recruiter relevance.
 
-Key Features:
+**Tech Stack:** React.js · Tailwind CSS · Flask/Django · MongoDB/PostgreSQL · OpenAI GPT · JWT/Auth · AWS S3 or Firebase
 
-✅ Resume Upload & Parsing: Extracts skills, experience, and qualifications using DeepSeek API.
+#### 🧠 Key Highlights:
+- ✅ **Resume Parsing:** Upload `.pdf`/`.docx` files → Parsed into JSON → Auto-filled editable form.
+- ✅ **AI Resume Tailoring:** Paste job description → Resume gets rephrased & tailored using GPT.
+- ✅ **User Customization:** Add or edit skills, projects, certifications before generating the tailored resume.
+- ✅ **Authentication & Storage:** OAuth2/JWT-based login and cloud-based resume storage.
+- ✅ **Future Scope:** Cover letter generator, resume performance analytics, LinkedIn integration.
 
-✅ Job Matching Algorithm: Suggests job listings based on resume content and user preferences.
+> 📌 Demonstrates skills in full-stack dev, AI integration, data parsing, real-world HR tech, and scalable cloud architecture.
 
-✅ Automated Job Application: Autofills application forms and submits them to job platforms like Indeed.
 
-✅ User Customization: Allows filtering by location, salary, job type, and more.
+### 🔹 UPLeave – AI-Integrated Institutional Leave Management System
 
-### 🔹 UPLeave (Web-based Leave Management System)  
-- **Tech Stack:** PHP, MySQL, Bootstrap, AJAX, jQuery
-  
-Overview:
-UPLeave is a web-based leave management system designed for educational institutions. It streamlines the leave request and approval process by providing role-based access control (RBAC) and automating administrative tasks. The system enhances efficiency by reducing paperwork and ensuring transparency in leave tracking.
+An institutional-grade, full-stack leave automation system with **Role-Based Access Control (RBAC)** and integrated **AI enhancements**. Designed to streamline leave workflows in educational environments.
 
-✅ User Roles & Access Control: Different permissions for employees, HODs, academic deans, and principals.
+**Tech Stack:** PHP · MySQL · Bootstrap · AJAX · jQuery · Chart.js · DeepSeek API
 
-✅ Secure Authentication: Session-based login with an additional OTP-based verification for added security.
+#### 🧠 Key Highlights:
+- ✅ **RBAC System:** Employee, HOD, Academic Dean, Principal – with distinct dashboards and permissions.
+- ✅ **Smart Leave Reason Enhancer:** Hybrid rule-based + DeepSeek API to rephrase informal leave reasons professionally.
+- ✅ **Leave Analytics:** Integrated **bar & pie charts** using Chart.js for real-time trend visualization.
+- ✅ **Secure Login:** Session-based authentication and **OTP verification via PHPMailer**.
+- ✅ **Leave Lifecycle Automation:** Apply → Approve → Cancel → Track – all digitally managed.
 
-✅ Leave Request & Approval System: Employees can apply for leave, and higher authorities can approve/reject requests.
+> 📌 Built to demonstrate full-stack dev skills, secure workflows, real-world admin use cases, and practical AI integration.
 
-✅ Leave History & Reports: Users can track their leave status, while admins can generate leave reports.
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=eapenthomas&theme=monokai&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -139,6 +141,8 @@ UPLeave is a web-based leave management system designed for educational institut
 
 ## 💻 Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eapenthomas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://komarev.com/ghpvc/?username=eapenthomas&label=PROFILE+VIEWS)
 
   
 ## 📚 What I'm Currently Learning  
