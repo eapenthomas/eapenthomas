@@ -95,6 +95,8 @@ Full Stack Developer | Aspiring Software Engineer
   </a>
 </div>
 
+![Oracle AI Certified](https://img.shields.io/badge/Oracle-GenAI_Pro-orange?logo=oracle)
+![NPTEL](https://img.shields.io/badge/NPTEL-Python%20DS-red)
 
 ## 🚀 Projects  
 
