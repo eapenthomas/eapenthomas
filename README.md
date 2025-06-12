@@ -6,7 +6,7 @@ Full Stack Developer | Aspiring Software Engineer
 🎓 MCA Student | Tech Enthusiast | Passionate about Software Development  
 🌟 Specializing in Full Stack Development & AI-powered applications  
 🔥 Enthusiastic about problem-solving, automation, and AI-driven solutions  
-🎯 Currently working on **JobSwipe**, an AI-powered Chrome extension for automated job applications  
+🎯 Currently building **CVPrime**, an AI-powered resume tailoring web app for job-specific optimization and ATS compatibility
 
 ## 🛠 Tech Stack  
 
