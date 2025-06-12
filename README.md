@@ -128,6 +128,19 @@ UPLeave is a web-based leave management system designed for educational institut
 
 ✅ Leave History & Reports: Users can track their leave status, while admins can generate leave reports.
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=eapenthomas&theme=monokai&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats
+![Eapen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eapenthomas&show_icons=true&theme=tokyonight&count_private=true)
+
+## 📈 Contribution Graph
+[![GitHub Streak](https://streak-stats.demolab.com?user=eapenthomas&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+## 💻 Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eapenthomas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 ## 📚 What I'm Currently Learning  
 - Advanced React.js & State Management (Redux, Context API)  
 - Backend Development with Node.js & Flask  
