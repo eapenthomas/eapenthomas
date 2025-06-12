@@ -95,8 +95,12 @@ Full Stack Developer | Aspiring Software Engineer
   </a>
 </div>
 
-![Oracle AI Certified](https://img.shields.io/badge/Oracle-GenAI_Pro-orange?logo=oracle)
-![NPTEL](https://img.shields.io/badge/NPTEL-Python%20DS-red)
+## 🏅 Certifications
+- 🎓 AWS Certified Cloud Practitioner
+- 🎓 Oracle Generative AI Professional Certification
+- 🎓 AWS Certified AI Practitioner
+- 🎓 Salesforce Agentforce Specialist Certification
+- 🎓 NPTEL – Python for Data Science, Database Management Systems
 
 ## 🚀 Projects  
 
