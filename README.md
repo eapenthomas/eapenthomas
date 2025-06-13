@@ -139,7 +139,7 @@ An institutional-grade, full-stack leave automation system with **Role-Based Acc
 [![trophy](https://github-profile-trophy.vercel.app/?username=eapenthomas&theme=monokai&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![Eapen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eapenthomas&show_icons=true&theme=tokyonight&count_private=true)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=eapenthomas&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 📈 Contribution Graph
 [![GitHub Streak](https://streak-stats.demolab.com?user=eapenthomas&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
