@@ -146,6 +146,7 @@ An institutional-grade, full-stack leave automation system with **Role-Based Acc
 
 ## 💻 Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eapenthomas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eapenthomas&layout=compact&theme=tokyonight)
 
 ![visitors](https://komarev.com/ghpvc/?username=eapenthomas&label=PROFILE+VIEWS)
 
