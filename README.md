@@ -98,7 +98,6 @@ Full Stack Developer | Aspiring Software Engineer
 ## 🏅 Certifications
 - 🎓 AWS Certified Cloud Practitioner
 - 🎓 Oracle Generative AI Professional Certification
-- 🎓 AWS Certified AI Practitioner
 - 🎓 Salesforce Agentforce Specialist Certification
 - 🎓 NPTEL – Python for Data Science, Database Management Systems
 
