@@ -109,7 +109,7 @@ A full-stack, multi-role Learning Management System (LMS) that combines AI-drive
 
 **Tech Stack:** React.js · Tailwind CSS · FastAPI · Supabase/PostgreSQL · GPT APIs · ESP32 · MQTT/REST APIs
 
-####🧠 Key Highlights:
+###🧠 Key Highlights:
 
 ✅ Multi-Role Access System: Separate dashboards for Students, Teachers, and Admins, each with role-specific features and permissions.
 
@@ -121,13 +121,13 @@ A full-stack, multi-role Learning Management System (LMS) that combines AI-drive
 
 ✅ AI Features:
 
-Smart content summarization (Phase 1 rule-based; AI in Phase 2)
+  Smart content summarization (Phase 1 rule-based; AI in Phase 2)
 
-Skill Gap Analyzer to detect weak topics
+  Skill Gap Analyzer to detect weak topics
 
-OCR Notes Extractor for handwritten notes
+  OCR Notes Extractor for handwritten notes
 
-Personalized learning path suggestions
+  Personalized learning path suggestions
 
 ✅ Subscription & Payments: Monthly/Annual subscription plans with payment integration and automated invoice generation.✅ Activity Insights: Charts, score trends, and performance reports with auto-generated PDFs.
 
@@ -135,21 +135,21 @@ Personalized learning path suggestions
 
 🔌 IoT Integration (ESP32 Assistive Module)
 
-LearnSphere integrates seamlessly with an ESP32-powered multimodal accessibility device designed for differently-abled learners.
+  LearnSphere integrates seamlessly with an ESP32-powered multimodal accessibility device designed for differently-abled learners.
 
-IoT Features Include:
+  IoT Features Include:
 
-Voice Navigation for visually-impaired students
+  Voice Navigation for visually-impaired students
 
-Text-to-Speech content playback
+  Text-to-Speech content playback
 
-LED visual alerts for hearing-impaired learners
+  LED visual alerts for hearing-impaired learners
 
-Haptic feedback for reminders and learning cues
+  Haptic feedback for reminders and learning cues
 
-Real-time sync with the LearnSphere backend via MQTT/REST
+  Real-time sync with the LearnSphere backend via MQTT/REST
 
-Adaptive assistance based on learning performance and activity patterns
+  Adaptive assistance based on learning performance and activity patterns
 
 This IoT module elevates LearnSphere into an inclusive, research-driven EdTech solution supporting accessibility, personalization, and real-time engagement.
 
