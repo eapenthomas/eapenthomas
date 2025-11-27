@@ -98,10 +98,42 @@ Full Stack Developer | Aspiring Software Engineer
 ## 🏅 Certifications
 - 🎓 AWS Certified Cloud Practitioner
 - 🎓 Oracle Generative AI Professional Certification
+- 🎓 Oracle DevOps Professional Certification
 - 🎓 Salesforce Agentforce Specialist Certification
 - 🎓 NPTEL – Python for Data Science, Database Management Systems
 
 ## 🚀 Projects  
+
+### 🔹 LearnSphere – AI-Powered E-Learning Platform
+A full-stack, multi-role Learning Management System (LMS) that combines AI-driven personalization, real-time learning analytics, and ESP32-based IoT accessibility modules to deliver an inclusive and adaptive digital learning experience.
+
+**Tech Stack:** React.js · Tailwind CSS · FastAPI · Supabase/PostgreSQL · GPT APIs · ESP32 · MQTT/REST APIs
+####🧠 Key Highlights:
+✅ Multi-Role Access System: Separate dashboards for Students, Teachers, and Admins, each with role-specific features and permissions.
+✅ Course & Material Management: Upload/view PDFs, videos, and external links with seamless UI flows for students.
+✅ Quiz & Assignment Engine: Create quizzes, auto-score MCQs, upload assignments, and manage grading workflows.
+✅ Doubt Forum: Threaded Q&A system for student queries, teacher responses, and class discussions.
+✅ AI Features:
+
+Smart content summarization (Phase 1 rule-based; AI in Phase 2)
+Skill Gap Analyzer to detect weak topics
+OCR Notes Extractor for handwritten notes
+Personalized learning path suggestions
+✅ Subscription & Payments: Monthly/Annual subscription plans with payment integration and automated invoice generation.
+✅ Activity Insights: Charts, score trends, and performance reports with auto-generated PDFs.
+✅ Notifications & Calendar: Deadline tracking and real-time alerts for tasks, quizzes, and assignments.
+
+🔌 IoT Integration (ESP32 Assistive Module)
+LearnSphere integrates seamlessly with an ESP32-powered multimodal accessibility device designed for differently-abled learners.
+IoT Features Include:
+Voice Navigation for visually-impaired students
+Text-to-Speech content playback
+LED visual alerts for hearing-impaired learners
+Haptic feedback for reminders and learning cues
+Real-time sync with the LearnSphere backend via MQTT/REST
+Adaptive assistance based on learning performance and activity patterns
+This IoT module elevates LearnSphere into an inclusive, research-driven EdTech solution supporting accessibility, personalization, and real-time engagement.
+
 
 ### 🔹 CVPrime – AI-Powered Resume Tailoring Web App
 
